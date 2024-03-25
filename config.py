@@ -28,7 +28,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "7133614131"))
 PORT = os.environ.get("PORT", "8080")
 
 #Database 
-DB_URI = "mongodb+srv://susantamusic:susantabhan@cluster0.5pwi1py.mongodb.net/?retryWrites=true&w=majority"
+DB_URI = "mongodb+srv://lipakoffcedu:V8rL6ScxjFavFjS5@cluster0.iqp2pc0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DB_NAME = os.environ.get("DATABASE_NAME", "filesharexbot")
 
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "vipurl.in")
